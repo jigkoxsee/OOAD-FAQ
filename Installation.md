@@ -1,4 +1,4 @@
-== Install Laravel on Ubuntu
+## Install Laravel on Ubuntu
 
 ```
 sudo apt-get install php5-mcrypt
